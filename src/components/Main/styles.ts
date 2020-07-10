@@ -19,6 +19,7 @@ export const Header = styled.div`
   align-items: center;
   padding: 8px 0 9px 13px;
   border-bottom: 1px solid var(--outline);
+  background:var(--primary);
 
   > button {
     padding: 8px;

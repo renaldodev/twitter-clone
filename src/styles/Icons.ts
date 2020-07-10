@@ -7,4 +7,11 @@ export {
   MdSearch,
   MdHome,
   MdArrowBack,
+  MdFavorite,
+  MdComment,
+  MdRadio,
+  MdCake,
+  MdPerson,
+  MdChat,
+  MdShare
 } from 'react-icons/md';
