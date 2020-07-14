@@ -32,6 +32,7 @@ npm run start
 
 * [styled-components](https://styled-components.com/) 
 * [react-icons](https://github.com/react-icons/react-icons)
+* [react-sticky-box](https://github.com/codecks-io/react-sticky-box)
 
 
 ## Authors
